@@ -1,0 +1,43 @@
+Object Orientation conflates:
+    identity
+    value
+    and state;
+        once munged; it doesn't un-munge easily 
+    it attempts to control 
+    data and state 
+    via 
+        obfuscation
+
+
+
+
+
+
+
+
+
+
+
+        
+Complexity abounds:
+    Data structures, 
+        wrapped in classes are complex.
+    Syntax is complex.
+    Positional arguments to statements are complex
+    Looping is complex
+        nested looping is even more complex;
+    ORM is OMG complex.
+    Messaging objects for their contents is complex.
+        and probablistic 
+    Call chaining is Chaining complexities.
+    Null defense strategies are verbosity in the face of complexity
+    Order and sequence are stateful by themselves
+    Monitoring a myriad of objects for continual change = super complex.
+
+It's manageable on one core with serial processes.
+
+But what about multicores? 
+
+
+
+

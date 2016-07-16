@@ -1,0 +1,25 @@
+SCHOOL
+        Basic / Pascal / Assembly
+EXPLORED
+        C/C++
+        Erlang
+        JavaScript / Php
+        Java for Android
+        GO
+        Lisp
+        Lua
+        Prolog
+        Scala
+        Rust
+        Idris
+<3
+        Haskell
+        Clojure
+        Swift
+        F#
+
+$$$$
+        C#
+        Objective-C / Swift
+        Ruby
+-------------------------------------------

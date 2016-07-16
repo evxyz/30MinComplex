@@ -1,0 +1,22 @@
+vectors for Complexity: 
+    Code Complexity 
+        Cyclomatic 
+            and such
+
+    Architectural Complexity
+        an adhoc design 
+            rarely scales
+
+    Gnostic Complexity 
+        do you know the app in totality 
+            or just isolated pockets
+
+    Verifiablity Complexity  
+        Unit Tests 
+        Component Tests 
+        etc.
+
+
+
+
+

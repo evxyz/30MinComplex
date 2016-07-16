@@ -1,0 +1,19 @@
+Procedural programming was all Stateful all the time.
+
+Object orientation's  breakthrough
+    was to cluster state into chunks
+
+Messages communicating back-and-forth between chunks
+    the cost = Complexity + Obfuscation 
+
+Objects get bound-up by the procedures they absorb.
+
+Objects can be promiscuous, 
+    able to touch internal members 
+    of other objects unconsented.
+
+Inheritance was for specialization, 
+    but we ended up over using it for code reuse!
+
+
+

@@ -1,0 +1,36 @@
+“Favor object composition 
+over class inheritance.”
+    ~ The Gang of Four, 
+“Design Patterns: Elements of Reusable Object Oriented Software” c.1994
+
+Class inheritance creates 
+    parent/child object taxonomies 
+    as a side-effect.
+        . . . when you use class inheritance, 
+        you buy into 
+        the whole existing class taxonomy."
+                        -- Eric Elliott ... 
+                            Difference 
+                            Between Class & 
+                            Prototypal Inheritance? 
+
+
+“…the problem with object-oriented languages is 
+they’ve got all this implicit environment 
+that they carry around with them. 
+You wanted a banana but what you got 
+was a gorilla holding the banana 
+    and the entire jungle.” 
+                        ~ Joe Armstrong — “Coders at Work”
+
+
+
+
+
+
+
+tight coupling
+fragile base
+Inflexible hierarchy
+duplication by necessity
+Gorilla/banana problem

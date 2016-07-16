@@ -1,0 +1,14 @@
+parallelizationApocalypse;
+
+
+2005 -- manufacturers fit all of a CPU's functionality into half the area. 
+
+2006 -- dual-core CPUs  
+2008 -- quad-core
+2015 - 2016 
+	Androids with 8-cores
+	Intel's  Knights Landing chip, 72 cores. 
+
+Traditional, sequential programs are written for one core; Multicore CPU's require a parallel approach.
+Developers who are still writing sequential software are writing for yesterday's hardware ...
+	(Joel C. Adams @ http://cacm.acm.org/)

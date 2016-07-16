@@ -1,0 +1,16 @@
+Who to blame for why I think the way I do 
+	about Programming 
+
+Rich Hickey 
+	for Clojure and "Simplicity as a Goal"
+
+Brian Hurt 		
+	"Static v Dynamic typing" talks and mentoring 
+	parallel apocalypse & Team Idiots
+
+Brian Beckman 
+	Video -- Don't fear the Monad
+
+Sandi Metz 
+	Object Composition and Interface Testing.
+

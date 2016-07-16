@@ -1,0 +1,12 @@
+ML derived type inference makes provides the "feel" dynamic typing
+    But:
+    The strong-static typing,
+    supercharges compiler optimization
+    A concision that is on par with Ruby, 
+    but an execution that is at least as fast as Java, 
+    (see benchmarks).
+
+Hindley-Milner derived types offer, provability.
+  
+Complexity is constrained & Parallelization is made easier.    
+

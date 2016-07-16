@@ -1,0 +1,53 @@
+ClassInheritenceVersesComposition
+
+----------------------
+	Dog
+	   .bark()
+
+	Cat 
+		.meow()
+----------------------
+
+
+
+
+
+
+
+
+-------------------
+Animal 
+	.poop()
+	.sleep()
+	.eat()
+
+	Dog
+	   .bark()
+
+
+
+	Cat 
+		.meow()
+
+--------------------
+
+
+
+
+--------------------
+
+AnimalHandler
+	.Sheppard()
+	.clean()
+	.feed()
+
+
+Animal 
+	.poop()
+	.sleep()
+	.eat()
+	
+	Dog
+	   .bark()
+	Cat 
+		.meow()
